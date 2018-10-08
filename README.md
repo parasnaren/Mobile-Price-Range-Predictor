@@ -5,3 +5,5 @@
 
 ##### Support Vector Machine algorithm was used with a linear kernel to classify the phone into the categorised price ranges.
 
+##### A final classification accuracy of 96.3% was achieved on the test dataset.
+
